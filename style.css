@@ -1,0 +1,70 @@
+*{
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: 		#ffd3ea;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: 		#7554ae;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #c6e99f;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #c6e99f;
+    color: #7554ae;
+}
+
+h1 {
+    text-align: center;
+}
+
+#headshot {
+    display: block; 
+    margin: auto;
+    width: 400px;
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+#CTDpicture {
+    display: block; 
+    margin: auto;
+    width: 300px;
+}
+
+#Interestlist li{
+    font-size: 1.2rem;
+}
+
+#oceanpic {
+    display: block; 
+    margin: auto;
+    width: 500px;
+}
+
+.contact {
+    display: block;
+    text-align: center;
+    font-size: 1.2rem;
+}
